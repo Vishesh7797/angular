@@ -41,7 +41,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@angular-devkit/build-angular": "12.0.4",
+    "@angular-devkit/build-angular": "14.0.0",
     "@angular-devkit/build-optimizer": "0.1200.4",
     "@angular-devkit/core": "12.0.4",
     "@angular-devkit/schematics": "12.0.4",
@@ -61,7 +61,7 @@
     "@bazel/runfiles": "4.0.0-beta.1",
     "@bazel/terser": "4.0.0-beta.1",
     "@bazel/typescript": "4.0.0-beta.1",
-    "@microsoft/api-extractor": "7.18.4",
+    "@microsoft/api-extractor": "7.36.3",
     "@octokit/rest": "^18.6.2",
     "@octokit/core": "^3.5.1",
     "@octokit/plugin-rest-endpoint-methods": "^5.3.3",
